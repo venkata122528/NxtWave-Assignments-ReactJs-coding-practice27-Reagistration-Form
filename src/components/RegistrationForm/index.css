@@ -1,0 +1,21 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+.mainContainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.formContainer {
+  height: 60%;
+  width: 60%;
+}
+
+.from {
+}
+
+.requiredText {
+  color: red;
+}
